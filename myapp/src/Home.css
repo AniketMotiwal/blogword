@@ -1,0 +1,6 @@
+@media screen and (min-width: 1440px) {
+    .main-section-home-1 {
+        background-image: linear-gradient(to bottom, var(--primary-light) 74%, white 74%, white 75%);
+        padding-top: 50px;
+    }
+}
